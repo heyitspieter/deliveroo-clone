@@ -4,7 +4,7 @@
 
 ### Screenshot
 
-![](./screenshot_01.png)![](./screenshot_02.png)![](./screenshot_03.png)![](./screenshot_04.png)![](./screenshot_05.png)
+![](./screenshot.jpg)
 
 ## Run the App
 
