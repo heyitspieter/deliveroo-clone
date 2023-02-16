@@ -8,6 +8,6 @@
 
 ## Run the App
 
-### `npm run build`
+### `yarn expo start` or `npx expo start`
 
 This app uses json-server in development, so install it globally and run: ### `json-server --watch data/db.json --port 3500`
