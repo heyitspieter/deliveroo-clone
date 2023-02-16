@@ -1,0 +1,238 @@
+{
+    "categories": [
+        {
+            "id": 1200,
+            "name": "asian",
+            "imgUrl": "https://i.ibb.co/nPdYnhm/asian.jpg"
+        },
+        {
+            "id": 1201,
+            "name": "chinese",
+            "imgUrl": "https://i.ibb.co/9pD2hmC/chinese.jpg"
+        },
+        {
+            "id": 1202,
+            "name": "nigerian",
+            "imgUrl": "https://i.ibb.co/zxHf6PK/nigerian.jpg"
+        },
+        {
+            "id": 1203,
+            "name": "cocktail",
+            "imgUrl": "https://i.ibb.co/tXH5BF4/cocktail.jpg"
+        },
+        {
+            "id": 1204,
+            "name": "italian",
+            "imgUrl": "https://i.ibb.co/9N7nVCh/italian.jpg"
+        },
+        {
+            "id": 1205,
+            "name": "pizza",
+            "imgUrl": "https://i.ibb.co/dBhxGzg/vitalii-chernopyskyi-Oxb84-ENc-Ff-U-unsplash.jpg"
+        }
+    ],
+    "restaurants": [
+        {
+            "id": 1206,
+            "name": "Kfc",
+            "imgUrl": "https://i.ibb.co/4K40kFn/kfc.jpg",
+            "location": {
+                "lng": 10.4,
+                "lat": 4.5
+            },
+            "rating": 4.2,
+            "category": "pizza",
+            "dishes": [],
+            "address": "1441 Gardiner Lane Louisville, Kentucky, U.S",
+            "description": "Kfc is a global chicken restaurant brand with a rich, decades-long history of success and innovation"
+        },
+        {
+            "id": 1207,
+            "name": "Amala Next",
+            "imgUrl": "https://i.ibb.co/tBj378V/sesame-bbq.jpg",
+            "location": {
+                "lng": 9.4,
+                "lat": 2.5
+            },
+            "rating": 4.4,
+            "category": "nigerian",
+            "dishes": [
+                {
+                    "id": 1215
+                },
+                {
+                    "id": 1216
+                }
+            ],
+            "address": "FO1, Dutse Road, beside sure Start Kubwa, Abuja, Nigeria",
+            "description": "Amala Next is Nigerian indigenous restaurant popularly known for it's sumscious meals"
+        },
+        {
+            "id": 1208,
+            "name": "Yo Sushi",
+            "imgUrl": "https://i.ibb.co/R0KXzJJ/yo-sushi.jpg",
+            "location": {
+                "lng": 30.4,
+                "lat": 12.5
+            },
+            "rating": 4.0,
+            "category": "asian",
+            "dishes": [
+                {
+                    "id": 1219
+                },
+                {
+                    "id": 1220
+                }
+            ],
+            "address": "Soho, London, United Kingdom",
+            "description": "YO! Sushi is a global brand that specialises in delivering sushi to customers using the Japanese style 'kaiten' conveyor belt method."
+        },
+        {
+            "id": 1209,
+            "name": "Six Seven",
+            "imgUrl": "https://i.ibb.co/KNkYmLb/six-seven.jpg",
+            "location": {
+                "lng": 15.4,
+                "lat": 1.5
+            },
+            "rating": 3.9,
+            "category": "asian",
+            "dishes": [],
+            "address": "123 Main Street, United kingdom",
+            "description": "Six Seven is a restaurant that redefines the traditional way of preparing beef in a tasteful manner"
+        },
+        {
+            "id": 1210,
+            "name": "The Breakfast Club",
+            "imgUrl": "https://i.ibb.co/1nBvt8v/breakfast-club.jpg",
+            "location": {
+                "lng": 17.4,
+                "lat": 1.05
+            },
+            "rating": 5.0,
+            "category": "asian",
+            "dishes": [
+                {
+                    "id": 1217
+                },
+                {
+                    "id": 1218
+                }
+            ],
+            "address": "123 Deham Street Alabama, Japan",
+            "description": "The Breakfast Club is a special restaurant that operates a service based because of the pride she takes in her meals"
+        },
+        {
+            "id": 1211,
+            "name": "Gochew Grill",
+            "imgUrl": "https://i.ibb.co/pxxdZYH/go-chew.jpg",
+            "location": {
+                "lng": 17.4,
+                "lat": 1.05
+            },
+            "rating": 4.9,
+            "category": "nigerian",
+            "dishes": [],
+            "address": "18 lagos street, phase iv, FCT, Abuja",
+            "description": "Gochew grill sets its self apart in food service industry with it's taste meat grilling."
+        }
+    ],
+    "dishes": [
+        {
+            "id": 1215,
+            "quantity": 5,
+            "price": 4.8,
+            "name": "Nkwobi",
+            "imgUrl": "https://i.ibb.co/J5gPdBM/farhad-ibrahimzade-Kp-Ol9j-V2a-JM-unsplash.jpg",
+            "description": "Nkwobi is a Nigerian delicacy that is usually ordered and enjoyed in exclusive restaurants. It is simply cooked cow foot mixed in spicy palm oil paste."
+        },
+        {
+            "id": 1216,
+            "quantity": 3,
+            "price": 5.2,
+            "name": "Isi Ewu",
+            "imgUrl": "https://i.ibb.co/b5tTqNx/stephen-kong-Bo-X70-QKDDQ-unsplash.jpg",
+            "description": "Isi ewu, a spicy stew traditionally prepared by the Igbo people of southeastern Nigeria, literally means “goat head."
+        },
+        {
+            "id": 1217,
+            "quantity": 2,
+            "price": 6.0,
+            "name": "Egg Bread with Onions",
+            "imgUrl": "https://i.ibb.co/RNnySwf/eiliv-aceron-u-Am1-CZMd-PCw-unsplash.jpg",
+            "description": "Egg bread A.k.a Challah bread is a traditional egg bread for the Jewish Sabbath. It's braided and topped with poppy seeds for a beautiful presentation."
+        },
+        {
+            "id": 1218,
+            "quantity": 4,
+            "price": 6.0,
+            "name": "SimplePie Bread with hotdog",
+            "imgUrl": "https://i.ibb.co/mCgmWTQ/chris-tweten-v-LH4k-F6cz-Rg-unsplash.jpg",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam augue dolor, fringilla id augue quis, elementum pharetra ipsum. Fusce sagittis eros quis placerat finibus."
+        },
+        {
+            "id": 1219,
+            "quantity": 3,
+            "price": 9.0,
+            "name": "Sed vel",
+            "imgUrl": "https://i.ibb.co/3NTXC0p/ben-lei-s-DWTQfqg-FA-unsplash.jpg",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean bibendum lacus eu gravida ullamcorper. Nam at arcu erat. Etiam mattis a tellus at aliquam."
+        },
+        {
+            "id": 1220,
+            "quantity": 3,
+            "price": 7.5,
+            "name": "Nulla et ornare",
+            "imgUrl": "https://i.ibb.co/sbByd5C/sara-dubler-p-CD5-JJl2l50-unsplash.jpg",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vitae est non arcu aliquet tempus"
+        }
+    ],
+    "featured": [
+        {
+            "id": 1212,
+            "title": "Offers near you!",
+            "description": "Why not support your local restaurant tonight!",
+            "restaurants": [
+                {
+                    "id": 1206,
+                    "name": "Kfc"
+                },
+                {
+                    "id": 1207,
+                    "name": "Amala Next"
+                }
+            ]
+        },
+        {
+            "id": 1213,
+            "title": "Featured",
+            "description": "Paid placements from our partners",
+            "restaurants": [
+                {
+                    "id": 1208,
+                    "name": "Yo Sushi"
+                },
+                {
+                    "id": 1209,
+                    "name": "Six Seven"
+                }
+            ]
+        },
+        {
+            "id": 1214,
+            "title": "Tasty Discounts",
+            "description": "Everyone's been enjoying this juicy discounts",
+            "restaurants": [
+                {
+                    "id": 1210,
+                    "name": "The Breakfast Club"
+                },
+                {
+                    "id": 1211,
+                    "name": "Gochew Grill"
+                }
+            ]
+        }
+    ]
+}
